@@ -1,7 +1,6 @@
 # --------------- ARRAYS ---------------
 
 # Creating arrays
-
 array_1 = Array.new
 array_2 = Array.new(5) # Gets nil as default
 array_3 = Array.new(5, "empty")
